@@ -1,0 +1,46 @@
+.sidebar {
+  float:left;
+  width: 20%;
+  background-color:#ff4d4d;
+  border: 3px solid black;
+  padding: 12px;
+  margin: 30px;
+}
+
+img {
+    padding: 20px;
+    align-content: stretch;
+}
+
+body {
+			/* background-image: url("image.jpg") ; */
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #808080;
+
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+p {
+  text-align: center;
+
+}
+
+ul {
+  list-style: none;
+  font-weight: bold;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
